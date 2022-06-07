@@ -1,0 +1,181 @@
+﻿.ax_default {
+  font-family:'FontAwesome5Pro-Regular', 'Font Awesome 5 Pro', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+.box_1 {
+}
+.box_2 {
+}
+.ellipse {
+}
+._图片_ {
+}
+._一级标题 {
+  font-family:'FontAwesome5Pro-Regular', 'Font Awesome 5 Pro', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二级标题 {
+  font-family:'FontAwesome5Pro-Regular', 'Font Awesome 5 Pro', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._三级标题 {
+  font-family:'FontAwesome5Pro-Regular', 'Font Awesome 5 Pro', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._四级标题 {
+  font-family:'FontAwesome5Pro-Regular', 'Font Awesome 5 Pro', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._五级标题 {
+  font-family:'FontAwesome5Pro-Regular', 'Font Awesome 5 Pro', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._六级标题 {
+  font-family:'FontAwesome5Pro-Regular', 'Font Awesome 5 Pro', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+._文本段落 {
+  font-family:'FontAwesome5Pro-Regular', 'Font Awesome 5 Pro', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  text-align:left;
+}
+.text_link_mouse_over {
+}
+.text_link_mouse_down {
+}
+.line {
+}
+.table_cell {
+}
+._表单提示 {
+  color:#999999;
+}
+._表单禁用 {
+}
+._流程形状 {
+}
+._连接 {
+  color:#FFFFFF;
+}
+._默认样式 {
+}
+._默认样式1 {
+}
+.label {
+  font-family:'FontAwesome5Pro-Regular', 'Font Awesome 5 Pro', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.image {
+}
+._文本链接 {
+}
+._链接悬停 {
+}
+._链接按下 {
+}
+.font_awesome_5_free_solid {
+  font-family:'Font Awesome 5 Free ', 'Font Awesome 5 Free', sans-serif;
+  font-weight:900;
+  font-style:normal;
+}
+._私域视界v1_5 {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.paragraph {
+  text-align:left;
+}
+.line1 {
+}
+.icon {
+}
+._图片 {
+}
+._私域视界v1_7_12（客户管理_三期） {
+  font-size:13px;
+  color:#FFFFFF;
+}
+._私域视界v1_7_4 {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.font_awesome_5_free_regular {
+  font-family:'Font Awesome 5 Free ', 'Font Awesome 5 Free', sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+._私域视界v1_7_8 {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.paragraph1 {
+  text-align:left;
+}
+._导航_无色 {
+  color:#FFFFFF;
+  text-align:left;
+}
+.form_disabled {
+}
+._形状 {
+  color:#333333;
+}
+._私域视界v1_7_11（样式优化） {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.box_11 {
+}
+.shape {
+}
+.heading_1 {
+  font-family:'Font Awesome 5 Pro Solid', 'Font Awesome 5 Pro Regular', 'Font Awesome 5 Pro', sans-serif;
+  font-weight:900;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._私域视界v1_14_客户管理二期 {
+  font-size:13px;
+  color:#FFFFFF;
+}
+.box_3 {
+}
+._私域视界v1_7_2 {
+  font-size:12px;
+  color:#FFFFFF;
+}
+._私域视界后台优化 {
+  font-size:12px;
+  color:#FFFFFF;
+}
+textarea, select, input, button { outline: none; }
